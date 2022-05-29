@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "project_number": "64527102379",
+    "firebase_url": "https://travel-63a25-default-rtdb.firebaseio.com",
+    "project_id": "travel-63a25",
+    "storage_bucket": "travel-63a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64527102379:android:d8e04ecd3406f5b058e2ee",
+        "android_client_info": {
+          "package_name": "com.courtesy.login_firebase_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64527102379-26g31akabq9nhtou534h0avdmocet6g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHf9gKns8y3I0MVgUu7BoPbq4wlrMBGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64527102379-26g31akabq9nhtou534h0avdmocet6g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64527102379:android:4cc75a9432cd1fdf58e2ee",
+        "android_client_info": {
+          "package_name": "com.example.cohorts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64527102379-26g31akabq9nhtou534h0avdmocet6g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHf9gKns8y3I0MVgUu7BoPbq4wlrMBGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64527102379-26g31akabq9nhtou534h0avdmocet6g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64527102379:android:fc8faa18180217b258e2ee",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64527102379-26g31akabq9nhtou534h0avdmocet6g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHf9gKns8y3I0MVgUu7BoPbq4wlrMBGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64527102379-26g31akabq9nhtou534h0avdmocet6g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64527102379:android:13a091da066c33b358e2ee",
+        "android_client_info": {
+          "package_name": "com.example.hellodoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64527102379-quu1rgu1v9fc626mhl9uqk278gj439lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hellodoctor",
+            "certificate_hash": "166884408d9427247984cb84e91cb78e39917284"
+          }
+        },
+        {
+          "client_id": "64527102379-26g31akabq9nhtou534h0avdmocet6g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHf9gKns8y3I0MVgUu7BoPbq4wlrMBGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64527102379-26g31akabq9nhtou534h0avdmocet6g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64527102379:android:c6b802048028d4f458e2ee",
+        "android_client_info": {
+          "package_name": "com.example.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64527102379-26g31akabq9nhtou534h0avdmocet6g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHf9gKns8y3I0MVgUu7BoPbq4wlrMBGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64527102379-26g31akabq9nhtou534h0avdmocet6g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64527102379:android:f53d5d6efab0ff9958e2ee",
+        "android_client_info": {
+          "package_name": "dev.leonardom.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64527102379-26g31akabq9nhtou534h0avdmocet6g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHf9gKns8y3I0MVgUu7BoPbq4wlrMBGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64527102379-26g31akabq9nhtou534h0avdmocet6g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
